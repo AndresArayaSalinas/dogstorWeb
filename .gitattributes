@@ -1,0 +1,2 @@
+debug.log filter=lfs diff=lfs merge=lfs -text
+dogstorWeb filter=lfs diff=lfs merge=lfs -text
